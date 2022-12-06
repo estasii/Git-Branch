@@ -1,2 +1,0 @@
-new style
-new script
